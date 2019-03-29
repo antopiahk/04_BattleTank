@@ -15,4 +15,5 @@ Jorge Lewis
 Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
 
 ## Lecture List
-* BE01 Section Introduction
+*Section Introduction
+*Game Design Document
